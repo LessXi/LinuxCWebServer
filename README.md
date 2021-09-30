@@ -1,2 +1,2 @@
-# C-C-Web-Server
-linux下实现一个webserver
+# C/C++ WebServer
+linux下使用C/C++实现一个web服务器
